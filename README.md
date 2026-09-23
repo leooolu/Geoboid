@@ -9,7 +9,7 @@ A set of computational-design components for **Grasshopper** (Rhino 8), built ar
 
 ![Sample Image](sample_data/exampleresult.png)
   <a href="https://www.youtube.com/watch?v=F1EQx3faAGk">
-    <img src="https://img.youtube.com/vi/F1EQx3faAGk/0.jpg" alt="Sample Video" width="480">
+    <img src="https://img.youtube.com/vi/F1EQx3faAGk/maxresdefault.jpg" alt="Sample Video" width="960">
   </a>
 ---
 
