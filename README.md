@@ -8,10 +8,7 @@ A set of computational-design components for **Grasshopper** (Rhino 8), built ar
 ![.NET](https://img.shields.io/badge/.NET-7.0-512BD4.svg)
 
 ![Sample Image](sample_data/exampleresult.png)
-  <a href="https://www.youtube.com/watch?v=F1EQx3faAGk">
-    <img src="https://img.youtube.com/vi/F1EQx3faAGk/maxresdefault.jpg" alt="Sample Video" width="960">
-  </a>
----
+### [Demo Video](https://www.youtube.com/watch?v=F1EQx3faAGk)
 
 ## Contents
 
